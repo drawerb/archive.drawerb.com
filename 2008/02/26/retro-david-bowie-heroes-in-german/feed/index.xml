@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Retro: David Bowie, Heroes (in German)	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Jun 2008 05:31:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: j		</title>
+		<link>./../index.html#comment-1155</link>
+
+		<dc:creator><![CDATA[j]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2008 05:31:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/02/26/retro-david-bowie-heroes-in-german/#comment-1155</guid>
+
+					<description><![CDATA[thanks for posting this...
+
+I have looking for this for years]]></description>
+			<content:encoded><![CDATA[<p>thanks for posting this&#8230;</p>
+<p>I have looking for this for years</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

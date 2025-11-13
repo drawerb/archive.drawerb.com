@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Riot Grrrls roundup at WeHeartMusic	</title>
+	<atom:link href="./../../riot-grrrls-we%E2%99%A5music/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Jul 2007 13:32:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: sleeper		</title>
+		<link>./../index.html#comment-197</link>
+
+		<dc:creator><![CDATA[sleeper]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2007 13:32:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/07/15/riot-grrrls-we%e2%99%a5music/#comment-197</guid>
+
+					<description><![CDATA[riot on!]]></description>
+			<content:encoded><![CDATA[<p>riot on!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

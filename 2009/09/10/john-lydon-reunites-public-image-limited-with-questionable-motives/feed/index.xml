@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: John Lydon reunites Public Image Limited with questionable motives	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Sep 2009 18:26:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1753</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2009 18:26:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5312#comment-1753</guid>
+
+					<description><![CDATA[@AJW that was hilarious.]]></description>
+			<content:encoded><![CDATA[<p>@AJW that was hilarious.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: AJW		</title>
+		<link>./../index.html#comment-1752</link>
+
+		<dc:creator><![CDATA[AJW]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2009 17:29:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5312#comment-1752</guid>
+
+					<description><![CDATA[http://www.youtube.com/watch?v=QdYevkJf--M]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=QdYevkJf--M" rel="nofollow ugc">http://www.youtube.com/watch?v=QdYevkJf&#8211;M</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

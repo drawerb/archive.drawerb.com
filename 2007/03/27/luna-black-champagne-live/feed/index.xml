@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Luna &#8220;Black Champagne&#8221; live	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Mar 2007 20:51:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: shoop		</title>
+		<link>./../index.html#comment-12</link>
+
+		<dc:creator><![CDATA[shoop]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2007 20:51:55 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.drawerb.com/2007/03/27/luna-black-champagne-live/#comment-12</guid>
+
+					<description><![CDATA[I&#039;m going to see them thursday.  I&#039;m supposedly going to be backstage since I gave my Sufjan @ The Kennedy Center tix to a guy in the band opening for Dean and Britta.  We&#039;ll see.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m going to see them thursday.  I&#8217;m supposedly going to be backstage since I gave my Sufjan @ The Kennedy Center tix to a guy in the band opening for Dean and Britta.  We&#8217;ll see.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

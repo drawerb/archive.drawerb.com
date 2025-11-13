@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Coathangers &#8220;Parking Lot&#8221; Mp3	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Jul 2007 21:30:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: k		</title>
+		<link>./../index.html#comment-200</link>
+
+		<dc:creator><![CDATA[k]]></dc:creator>
+		<pubDate>Tue, 17 Jul 2007 21:30:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/07/17/the-coathangers-parking-lot-mp3/#comment-200</guid>
+
+					<description><![CDATA[I think I might be in love.  They&#039;re definitely my new favorite Hotlanta band, replacing &lt;a href=&quot;http://www.snowden.info/&quot; rel=&quot;nofollow&quot;&gt;Snowden&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>I think I might be in love.  They&#8217;re definitely my new favorite Hotlanta band, replacing <a href="http://www.snowden.info/" rel="nofollow">Snowden</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

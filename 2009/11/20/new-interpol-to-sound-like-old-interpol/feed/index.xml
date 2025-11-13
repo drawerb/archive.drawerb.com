@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Interpol to sound like old Interpol	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Jul 2010 15:40:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: cristopher julian palmeira		</title>
+		<link>./../index.html#comment-1780</link>
+
+		<dc:creator><![CDATA[cristopher julian palmeira]]></dc:creator>
+		<pubDate>Tue, 27 Jul 2010 15:40:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5470#comment-1780</guid>
+
+					<description><![CDATA[julians plenti&#039;s new single release is great!]]></description>
+			<content:encoded><![CDATA[<p>julians plenti&#8217;s new single release is great!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

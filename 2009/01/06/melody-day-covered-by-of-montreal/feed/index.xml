@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Melody Day covered by Of Montreal	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Jan 2009 04:45:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1397</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2009 04:45:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/01/06/melody-day-covered-by-of-montreal/#comment-1397</guid>
+
+					<description><![CDATA[I feel kinda guilty for liking their covers more than their songs.]]></description>
+			<content:encoded><![CDATA[<p>I feel kinda guilty for liking their covers more than their songs.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Arthur Seaton		</title>
+		<link>./../index.html#comment-1396</link>
+
+		<dc:creator><![CDATA[Arthur Seaton]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2009 02:48:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/01/06/melody-day-covered-by-of-montreal/#comment-1396</guid>
+
+					<description><![CDATA[Thanks for that link to the Of Montreal archive.  I think they played a Bowie cover to end the show in Columbia...I think.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for that link to the Of Montreal archive.  I think they played a Bowie cover to end the show in Columbia&#8230;I think.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

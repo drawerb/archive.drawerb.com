@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Don&#8217;t Stop Believing	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Jul 2008 16:15:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: patrick		</title>
+		<link>./../index.html#comment-1255</link>
+
+		<dc:creator><![CDATA[patrick]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2008 16:15:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3208#comment-1255</guid>
+
+					<description><![CDATA[is it possible to not stop believing if you never started believing?]]></description>
+			<content:encoded><![CDATA[<p>is it possible to not stop believing if you never started believing?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1254</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2008 16:03:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3208#comment-1254</guid>
+
+					<description><![CDATA[preloaded with journey&#039;s new album revelations with fake/substitute/not steve perry lead singer.  yikes.]]></description>
+			<content:encoded><![CDATA[<p>preloaded with journey&#8217;s new album revelations with fake/substitute/not steve perry lead singer.  yikes.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tak o Tak, Stricken City	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Jun 2008 08:44:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Souxsie		</title>
+		<link>./../index.html#comment-1231</link>
+
+		<dc:creator><![CDATA[Souxsie]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2008 08:44:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3123#comment-1231</guid>
+
+					<description><![CDATA[love this]]></description>
+			<content:encoded><![CDATA[<p>love this</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

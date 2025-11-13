@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Short Cuts	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Sep 2007 00:34:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Kevin Langston		</title>
+		<link>./../index.html#comment-725</link>
+
+		<dc:creator><![CDATA[Kevin Langston]]></dc:creator>
+		<pubDate>Thu, 27 Sep 2007 00:34:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/09/26/short-cuts/#comment-725</guid>
+
+					<description><![CDATA[I much prefer looking at this whole &quot;writer comments on his own entry&quot; affair as something more postmodern than pathetic. No matter, I would be remiss if I didn&#039;t link to &lt;a href=&quot;http://www.coverbrowser.com/covers/worst-album-covers&quot; rel=&quot;nofollow&quot;&gt;this&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>I much prefer looking at this whole &#8220;writer comments on his own entry&#8221; affair as something more postmodern than pathetic. No matter, I would be remiss if I didn&#8217;t link to <a href="http://www.coverbrowser.com/covers/worst-album-covers" rel="nofollow">this</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

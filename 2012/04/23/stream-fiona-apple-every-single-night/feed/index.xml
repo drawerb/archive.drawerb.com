@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: STREAM: Fiona Apple &#8220;Every Single Night&#8221;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 May 2012 13:22:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Pam		</title>
+		<link>./../index.html#comment-1902</link>
+
+		<dc:creator><![CDATA[Pam]]></dc:creator>
+		<pubDate>Sun, 06 May 2012 13:22:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=6768#comment-1902</guid>
+
+					<description><![CDATA[&quot;I just made a meal for us both to choke on.&quot;  
+I could pick her lyrics out of a lineup.]]></description>
+			<content:encoded><![CDATA[<p>&#8220;I just made a meal for us both to choke on.&#8221;<br />
+I could pick her lyrics out of a lineup.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

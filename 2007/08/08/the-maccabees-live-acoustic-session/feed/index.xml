@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Maccabees live acoustic session	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Aug 2007 19:21:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: eric		</title>
+		<link>./../index.html#comment-272</link>
+
+		<dc:creator><![CDATA[eric]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 19:21:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/08/08/the-maccabees-live-acoustic-session/#comment-272</guid>
+
+					<description><![CDATA[yeah, i keep coming back to it too.]]></description>
+			<content:encoded><![CDATA[<p>yeah, i keep coming back to it too.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: k		</title>
+		<link>./../index.html#comment-271</link>
+
+		<dc:creator><![CDATA[k]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2007 17:05:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/08/08/the-maccabees-live-acoustic-session/#comment-271</guid>
+
+					<description><![CDATA[Their album has been in heavy rotation for weeks now.  I can&#039;t put my finger on why I love it, but I do.]]></description>
+			<content:encoded><![CDATA[<p>Their album has been in heavy rotation for weeks now.  I can&#8217;t put my finger on why I love it, but I do.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

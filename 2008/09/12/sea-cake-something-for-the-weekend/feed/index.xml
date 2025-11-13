@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sea &#038; Cake, Something for the Weekend	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Mar 2009 17:55:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1302</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 17:55:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3400#comment-1302</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-1301&quot;&gt;Trey&lt;/a&gt;.
+
+You &lt;a href=&quot;http://www.drawerb.com/2009/03/05/jacking-the-ball-and-your-money/&quot; rel=&quot;nofollow&quot;&gt;did&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-1301">Trey</a>.</p>
+<p>You <a href="http://www.drawerb.com/2009/03/05/jacking-the-ball-and-your-money/" rel="nofollow">did</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trey		</title>
+		<link>./../index.html#comment-1301</link>
+
+		<dc:creator><![CDATA[Trey]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2009 06:43:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3400#comment-1301</guid>
+
+					<description><![CDATA[Pretty sure I just heard Sea and Cake in a Citi Cards commercial.]]></description>
+			<content:encoded><![CDATA[<p>Pretty sure I just heard Sea and Cake in a Citi Cards commercial.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

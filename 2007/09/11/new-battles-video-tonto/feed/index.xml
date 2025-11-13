@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Battles video, &#8220;Tonto&#8221;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Sep 2007 13:50:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Tibi Puiu		</title>
+		<link>./../index.html#comment-647</link>
+
+		<dc:creator><![CDATA[Tibi Puiu]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2007 13:50:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/09/11/new-battles-video-tonto/#comment-647</guid>
+
+					<description><![CDATA[Hey man, great site. Would you be interested in a link exchange with mine? Hope i hear soon from ya.]]></description>
+			<content:encoded><![CDATA[<p>Hey man, great site. Would you be interested in a link exchange with mine? Hope i hear soon from ya.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

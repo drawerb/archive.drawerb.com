@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Metric Video for Sick Muse	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jun 2009 16:50:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1686</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2009 16:50:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/06/03/new-metric-video-for-sick-muse/#comment-1686</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-1685&quot;&gt;Jeremy&lt;/a&gt;.
+
+Glad you like it!  You should check out the new Phoenix.  It is my current addiction.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-1685">Jeremy</a>.</p>
+<p>Glad you like it!  You should check out the new Phoenix.  It is my current addiction.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jeremy		</title>
+		<link>./../index.html#comment-1685</link>
+
+		<dc:creator><![CDATA[Jeremy]]></dc:creator>
+		<pubDate>Wed, 03 Jun 2009 14:53:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/06/03/new-metric-video-for-sick-muse/#comment-1685</guid>
+
+					<description><![CDATA[Thanks for recommending the album! Been loving it lately.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for recommending the album! Been loving it lately.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: I use the Oxford comma	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Jul 2008 02:40:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1244</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2008 02:40:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3170#comment-1244</guid>
+
+					<description><![CDATA[Well played, Arthur.]]></description>
+			<content:encoded><![CDATA[<p>Well played, Arthur.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1243</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 18:28:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3170#comment-1243</guid>
+
+					<description><![CDATA[I am all about the Oxford comma as well. Eff &quot;journalistic&quot; grammar rules. MLA all the way.]]></description>
+			<content:encoded><![CDATA[<p>I am all about the Oxford comma as well. Eff &#8220;journalistic&#8221; grammar rules. MLA all the way.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Arthur		</title>
+		<link>./../index.html#comment-1242</link>
+
+		<dc:creator><![CDATA[Arthur]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 16:36:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3170#comment-1242</guid>
+
+					<description><![CDATA[I like kumquats, raspberries, and durians.]]></description>
+			<content:encoded><![CDATA[<p>I like kumquats, raspberries, and durians.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: d.		</title>
+		<link>./../index.html#comment-1241</link>
+
+		<dc:creator><![CDATA[d.]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 16:16:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3170#comment-1241</guid>
+
+					<description><![CDATA[My man - I am a stickler for the Oxford comma.]]></description>
+			<content:encoded><![CDATA[<p>My man &#8211; I am a stickler for the Oxford comma.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

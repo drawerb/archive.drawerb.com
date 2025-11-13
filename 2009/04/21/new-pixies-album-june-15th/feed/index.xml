@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Pixies album June 15th? (No)	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 22 Apr 2009 00:02:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Actually...		</title>
+		<link>./../index.html#comment-1651</link>
+
+		<dc:creator><![CDATA[Actually...]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2009 00:02:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=4871#comment-1651</guid>
+
+					<description><![CDATA[The guy who is overseeing this boxset told Rolling Stone that he &quot;didn&#039;t want to touch the original master recordings.&quot; So, the albums are not remastered.  ;)]]></description>
+			<content:encoded><![CDATA[<p>The guy who is overseeing this boxset told Rolling Stone that he &#8220;didn&#8217;t want to touch the original master recordings.&#8221; So, the albums are not remastered.  😉</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

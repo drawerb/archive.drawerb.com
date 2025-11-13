@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: sugarlumps	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Jan 2009 12:07:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1522</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2009 12:07:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/01/27/sugarlumps/#comment-1522</guid>
+
+					<description><![CDATA[This really is genius.  Almost as good as Foux de Fa Fa, which is my all time favorite &quot;bit&quot; from them. http://www.youtube.com/watch?v=FUVagbFcSUU]]></description>
+			<content:encoded><![CDATA[<p>This really is genius.  Almost as good as Foux de Fa Fa, which is my all time favorite &#8220;bit&#8221; from them. <a href="http://www.youtube.com/watch?v=FUVagbFcSUU" rel="nofollow ugc">http://www.youtube.com/watch?v=FUVagbFcSUU</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Arthur Seaton		</title>
+		<link>./../index.html#comment-1521</link>
+
+		<dc:creator><![CDATA[Arthur Seaton]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2009 00:38:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/01/27/sugarlumps/#comment-1521</guid>
+
+					<description><![CDATA[&quot;My cannonballs cause a kerfuffle.&quot;  Hee.
+
+&quot;10 bucks and a frisbee&quot;  HA HA]]></description>
+			<content:encoded><![CDATA[<p>&#8220;My cannonballs cause a kerfuffle.&#8221;  Hee.</p>
+<p>&#8220;10 bucks and a frisbee&#8221;  HA HA</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

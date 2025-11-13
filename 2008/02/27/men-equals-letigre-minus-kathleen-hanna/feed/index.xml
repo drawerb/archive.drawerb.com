@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: MEN equals LeTigre minus Kathleen Hanna	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 28 Feb 2008 03:24:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: k		</title>
+		<link>./../index.html#comment-1158</link>
+
+		<dc:creator><![CDATA[k]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 03:24:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/02/27/men-equals-letigre-minus-kathleen-hanna/#comment-1158</guid>
+
+					<description><![CDATA[I&#039;m probably going to try and catch them at the Black Cat in DC on the 7th.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m probably going to try and catch them at the Black Cat in DC on the 7th.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trey		</title>
+		<link>./../index.html#comment-1157</link>
+
+		<dc:creator><![CDATA[Trey]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 00:54:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/02/27/men-equals-letigre-minus-kathleen-hanna/#comment-1157</guid>
+
+					<description><![CDATA[Thought I would mention that MEN are playing next weekend at Village Tavern in Charleston]]></description>
+			<content:encoded><![CDATA[<p>Thought I would mention that MEN are playing next weekend at Village Tavern in Charleston</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

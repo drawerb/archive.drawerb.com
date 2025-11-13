@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Of Montreal already working on follow-up	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Nov 2007 09:52:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Danger		</title>
+		<link>./../index.html#comment-13</link>
+
+		<dc:creator><![CDATA[Danger]]></dc:creator>
+		<pubDate>Wed, 14 Nov 2007 09:52:25 +0000</pubDate>
+		<guid isPermaLink="false">http://blog.drawerb.com/2007/03/29/of-montreal-already-working-on-follow-up/#comment-13</guid>
+
+					<description><![CDATA[http://www.youtube.com/watch?v=whQ31Z0zBfI
+
+not the new songs, but an indication none the less]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=whQ31Z0zBfI" rel="nofollow ugc">http://www.youtube.com/watch?v=whQ31Z0zBfI</a></p>
+<p>not the new songs, but an indication none the less</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

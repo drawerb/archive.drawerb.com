@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: An argument against paying for digital music	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 07 Jan 2009 20:58:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1400</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2009 20:58:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/01/07/an-argument-against-paying-for-digital-music/#comment-1400</guid>
+
+					<description><![CDATA[Confession: I&#039;ve never actually bought any music from iTunes for this exact reason.  I have, however, bought a fair bit from Amazon&#039;s Mp3 store.  My preferred method of acquisition is the physical copy from the artist themselves, as I know they are getting the bulk of the money I give them.  At least I hope they are.]]></description>
+			<content:encoded><![CDATA[<p>Confession: I&#8217;ve never actually bought any music from iTunes for this exact reason.  I have, however, bought a fair bit from Amazon&#8217;s Mp3 store.  My preferred method of acquisition is the physical copy from the artist themselves, as I know they are getting the bulk of the money I give them.  At least I hope they are.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

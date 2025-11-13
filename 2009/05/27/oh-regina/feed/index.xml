@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Oh Regina.	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 27 May 2009 19:21:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1676</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Wed, 27 May 2009 19:21:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/05/27/oh-regina/#comment-1676</guid>
+
+					<description><![CDATA[love it.]]></description>
+			<content:encoded><![CDATA[<p>love it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

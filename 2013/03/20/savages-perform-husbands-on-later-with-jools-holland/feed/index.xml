@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Savages Perform &#8220;Husbands&#8221; on Later with Jools Holland	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Mar 2013 19:03:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1919</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 19:03:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=7200#comment-1919</guid>
+
+					<description><![CDATA[Updated. Many apologies.]]></description>
+			<content:encoded><![CDATA[<p>Updated. Many apologies.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: patrick		</title>
+		<link>./../index.html#comment-1918</link>
+
+		<dc:creator><![CDATA[patrick]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 17:44:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=7200#comment-1918</guid>
+
+					<description><![CDATA[i have a NAME, eric.]]></description>
+			<content:encoded><![CDATA[<p>i have a NAME, eric.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

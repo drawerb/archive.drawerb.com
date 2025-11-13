@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: REVIEW: Ryan Adams, Easy Tiger, Lost Highway	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 18 Sep 2007 16:16:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: New Ryan Adams EP in late October, Drawer B		</title>
+		<link>./../index.html#comment-241</link>
+
+		<dc:creator><![CDATA[New Ryan Adams EP in late October, Drawer B]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2007 16:16:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/07/30/review-ryan-adams-easy-tiger-lost-highway/#comment-241</guid>
+
+					<description><![CDATA[[...] Cardinals, entitled Follow the Lights, which follows closely on the heels of his latest full-length Easy Tiger. Two new songs are interspersed with some older ones, all of which were recorded live in the studio [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Cardinals, entitled Follow the Lights, which follows closely on the heels of his latest full-length Easy Tiger. Two new songs are interspersed with some older ones, all of which were recorded live in the studio [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

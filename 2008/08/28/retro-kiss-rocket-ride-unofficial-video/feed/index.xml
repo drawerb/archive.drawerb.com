@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: RETRO: Kiss &#8220;Rocket Ride&#8221; unofficial video	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Aug 2008 13:56:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Michael M.		</title>
+		<link>./../index.html#comment-1281</link>
+
+		<dc:creator><![CDATA[Michael M.]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2008 13:56:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3299#comment-1281</guid>
+
+					<description><![CDATA[Eric, do you think you should perhaps stop laying your records out on the floor?]]></description>
+			<content:encoded><![CDATA[<p>Eric, do you think you should perhaps stop laying your records out on the floor?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

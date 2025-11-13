@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Covenant &#8211; Happy Man	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jan 2011 22:06:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: ballistol		</title>
+		<link>./../index.html#comment-1874</link>
+
+		<dc:creator><![CDATA[ballistol]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2011 22:06:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2011/01/11/covenant-happy-man/#comment-1874</guid>
+
+					<description><![CDATA[just a great song :-)]]></description>
+			<content:encoded><![CDATA[<p>just a great song 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

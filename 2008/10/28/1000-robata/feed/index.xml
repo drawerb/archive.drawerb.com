@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 1000 Robata	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Oct 2008 21:02:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: patrick		</title>
+		<link>./../index.html#comment-1347</link>
+
+		<dc:creator><![CDATA[patrick]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 21:02:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3568#comment-1347</guid>
+
+					<description><![CDATA[this is great. i love the chorus, where dudeman&#039;s either singing &quot;fuck&quot; or &quot;fag&quot; repeatedly. either way, it&#039;s genius.]]></description>
+			<content:encoded><![CDATA[<p>this is great. i love the chorus, where dudeman&#8217;s either singing &#8220;fuck&#8221; or &#8220;fag&#8221; repeatedly. either way, it&#8217;s genius.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1346</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 20:39:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3568#comment-1346</guid>
+
+					<description><![CDATA[Yeah.  I&#039;m loving it.  Reminds me of Colatown for some reason.]]></description>
+			<content:encoded><![CDATA[<p>Yeah.  I&#8217;m loving it.  Reminds me of Colatown for some reason.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1345</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 15:39:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3568#comment-1345</guid>
+
+					<description><![CDATA[this is kind of awesome.]]></description>
+			<content:encoded><![CDATA[<p>this is kind of awesome.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

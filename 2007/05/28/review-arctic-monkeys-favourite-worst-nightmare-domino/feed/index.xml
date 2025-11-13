@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: REVIEW: Arctic Monkeys, Favourite Worst Nightmare, Domino	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Jun 2007 10:10:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: stevens_gerrard		</title>
+		<link>./../index.html#comment-100</link>
+
+		<dc:creator><![CDATA[stevens_gerrard]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2007 10:10:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/05/28/review-arctic-monkeys-favourite-worst-nightmare-domino/#comment-100</guid>
+
+					<description><![CDATA[Just seen the them last night at Glastonbury, they were absolutely awesome, one of the best headline bands they&#039;ve ever had at the festival! If not the best actually, they even did a cover of Diamonds are Forever. Absolute class!]]></description>
+			<content:encoded><![CDATA[<p>Just seen the them last night at Glastonbury, they were absolutely awesome, one of the best headline bands they&#8217;ve ever had at the festival! If not the best actually, they even did a cover of Diamonds are Forever. Absolute class!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

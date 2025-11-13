@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: MP3: Julian Plenti &#8220;Games for Days&#8221;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Jul 2009 23:28:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1722</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2009 23:28:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5208#comment-1722</guid>
+
+					<description><![CDATA[I&#039;m digging on this.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m digging on this.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

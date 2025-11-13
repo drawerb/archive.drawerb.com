@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Visualizing the Top 100	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Feb 2009 23:59:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1550</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Sun, 08 Feb 2009 23:59:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/02/08/visualizing-the-top-100/#comment-1550</guid>
+
+					<description><![CDATA[zero love for fly-over country.]]></description>
+			<content:encoded><![CDATA[<p>zero love for fly-over country.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

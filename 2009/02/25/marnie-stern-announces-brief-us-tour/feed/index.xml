@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Marnie Stern announces brief US tour	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Feb 2009 20:49:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Drew		</title>
+		<link>./../index.html#comment-1581</link>
+
+		<dc:creator><![CDATA[Drew]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2009 20:49:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/02/25/marnie-stern-announces-brief-us-tour/#comment-1581</guid>
+
+					<description><![CDATA[Charlotte, SC? Maybe she&#039;ll play an after-party in Fort Mill.]]></description>
+			<content:encoded><![CDATA[<p>Charlotte, SC? Maybe she&#8217;ll play an after-party in Fort Mill.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

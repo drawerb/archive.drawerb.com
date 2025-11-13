@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Lily Allen covers Britney	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Dec 2008 10:37:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: KFL		</title>
+		<link>./../index.html#comment-1393</link>
+
+		<dc:creator><![CDATA[KFL]]></dc:creator>
+		<pubDate>Tue, 23 Dec 2008 10:37:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/12/19/lily-allen-covers-britney/#comment-1393</guid>
+
+					<description><![CDATA[Wait, is that her cigarette purse she&#039;s dangling?]]></description>
+			<content:encoded><![CDATA[<p>Wait, is that her cigarette purse she&#8217;s dangling?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

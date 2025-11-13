@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: VIDEO: The Strokes &#8220;Under Cover of Darkness&#8221;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Mar 2011 17:29:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Rabble		</title>
+		<link>./../index.html#comment-1884</link>
+
+		<dc:creator><![CDATA[Rabble]]></dc:creator>
+		<pubDate>Wed, 16 Mar 2011 17:29:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=6444#comment-1884</guid>
+
+					<description><![CDATA[Free listens of new album at:  http://new.thestrokes.com/]]></description>
+			<content:encoded><![CDATA[<p>Free listens of new album at:  <a href="http://new.thestrokes.com/" rel="nofollow ugc">http://new.thestrokes.com/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

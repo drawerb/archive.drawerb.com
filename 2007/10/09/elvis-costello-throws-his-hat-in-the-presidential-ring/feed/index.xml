@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Elvis Costello throws his hat in the presidential ring	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 11 Oct 2007 21:56:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: mark		</title>
+		<link>./../index.html#comment-742</link>
+
+		<dc:creator><![CDATA[mark]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2007 21:56:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/10/09/elvis-costello-throws-his-hat-in-the-presidential-ring/#comment-742</guid>
+
+					<description><![CDATA[Is all of Danny Bennett&#039;s clients attending?]]></description>
+			<content:encoded><![CDATA[<p>Is all of Danny Bennett&#8217;s clients attending?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

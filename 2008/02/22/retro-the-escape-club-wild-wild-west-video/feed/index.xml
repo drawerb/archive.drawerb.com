@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: RETRO: The Escape Club &#8220;Wild Wild West&#8221; video	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Mar 2009 19:27:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: lashaunda		</title>
+		<link>./../index.html#comment-1149</link>
+
+		<dc:creator><![CDATA[lashaunda]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 19:27:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/02/22/retro-the-escape-club-wild-wild-west-video/#comment-1149</guid>
+
+					<description><![CDATA[hi this was a fun thing]]></description>
+			<content:encoded><![CDATA[<p>hi this was a fun thing</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

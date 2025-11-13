@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Do you like my pony-tail? I do, I do!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 May 2010 00:35:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Georgia		</title>
+		<link>./../index.html#comment-1272</link>
+
+		<dc:creator><![CDATA[Georgia]]></dc:creator>
+		<pubDate>Tue, 25 May 2010 00:35:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3258#comment-1272</guid>
+
+					<description><![CDATA[This rocks!]]></description>
+			<content:encoded><![CDATA[<p>This rocks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1271</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 17:33:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3258#comment-1271</guid>
+
+					<description><![CDATA[Indeed. Reminds me a bit of HyperCrush, but way better.
+
+http://www.myspace.com/hypercrush
+
+http://www.youtube.com/watch?v=QB0pFM80VdU]]></description>
+			<content:encoded><![CDATA[<p>Indeed. Reminds me a bit of HyperCrush, but way better.</p>
+<p><a href="http://www.myspace.com/hypercrush" rel="nofollow ugc">http://www.myspace.com/hypercrush</a></p>
+<p><a href="http://www.youtube.com/watch?v=QB0pFM80VdU" rel="nofollow ugc">http://www.youtube.com/watch?v=QB0pFM80VdU</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1270</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2008 15:52:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3258#comment-1270</guid>
+
+					<description><![CDATA[this is amazing.]]></description>
+			<content:encoded><![CDATA[<p>this is amazing.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

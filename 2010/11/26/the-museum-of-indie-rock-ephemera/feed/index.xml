@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Museum of Indie Rock Ephemera	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 27 Nov 2010 21:52:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1865</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 21:52:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2010/11/26/the-museum-of-indie-rock-ephemera/#comment-1865</guid>
+
+					<description><![CDATA[Yeah. Knox looks so young!]]></description>
+			<content:encoded><![CDATA[<p>Yeah. Knox looks so young!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: ajw		</title>
+		<link>./../index.html#comment-1864</link>
+
+		<dc:creator><![CDATA[ajw]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 16:06:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2010/11/26/the-museum-of-indie-rock-ephemera/#comment-1864</guid>
+
+					<description><![CDATA[Love the Tall Dwarfs pic.  Great stuff.]]></description>
+			<content:encoded><![CDATA[<p>Love the Tall Dwarfs pic.  Great stuff.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

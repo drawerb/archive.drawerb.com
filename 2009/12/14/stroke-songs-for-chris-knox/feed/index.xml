@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Stroke: Songs for Chris Knox	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Dec 2009 22:25:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1786</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2009 22:25:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/12/14/stroke-songs-for-chris-knox/#comment-1786</guid>
+
+					<description><![CDATA[off to buy my copy.]]></description>
+			<content:encoded><![CDATA[<p>off to buy my copy.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

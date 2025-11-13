@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Did you hear the one about the secret chord?	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 07 Mar 2008 22:07:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Kevin Langston		</title>
+		<link>./../index.html#comment-1171</link>
+
+		<dc:creator><![CDATA[Kevin Langston]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2008 22:07:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/03/06/did-you-hear-the-one-about-the-secret-chord/#comment-1171</guid>
+
+					<description><![CDATA[No need. Great minds...
+
+Or in our case, &quot;idle minds...&quot;]]></description>
+			<content:encoded><![CDATA[<p>No need. Great minds&#8230;</p>
+<p>Or in our case, &#8220;idle minds&#8230;&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1170</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2008 15:20:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/03/06/did-you-hear-the-one-about-the-secret-chord/#comment-1170</guid>
+
+					<description><![CDATA[Sorry bout that.]]></description>
+			<content:encoded><![CDATA[<p>Sorry bout that.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kevin Langston		</title>
+		<link>./../index.html#comment-1169</link>
+
+		<dc:creator><![CDATA[Kevin Langston]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2008 11:05:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/03/06/did-you-hear-the-one-about-the-secret-chord/#comment-1169</guid>
+
+					<description><![CDATA[Damn. You beat me to this one.]]></description>
+			<content:encoded><![CDATA[<p>Damn. You beat me to this one.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

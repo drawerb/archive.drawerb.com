@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What are you listening to &#8211; April 08?	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 May 2008 14:07:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1205</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Fri, 02 May 2008 14:07:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3042#comment-1205</guid>
+
+					<description><![CDATA[Arthur, thanks for the BIPPP tip!]]></description>
+			<content:encoded><![CDATA[<p>Arthur, thanks for the BIPPP tip!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Arthur		</title>
+		<link>./../index.html#comment-1204</link>
+
+		<dc:creator><![CDATA[Arthur]]></dc:creator>
+		<pubDate>Thu, 01 May 2008 17:59:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3042#comment-1204</guid>
+
+					<description><![CDATA[This isn&#039;t new, but...
+
+There&#039;s a French Synth Wave compilation that&#039;s been on heavy rotation at the local college station.  My friend in Canada says it&#039;s getting airplay north of the border as well.
+
+It&#039;s called BIPPP.  You may have already heard it.]]></description>
+			<content:encoded><![CDATA[<p>This isn&#8217;t new, but&#8230;</p>
+<p>There&#8217;s a French Synth Wave compilation that&#8217;s been on heavy rotation at the local college station.  My friend in Canada says it&#8217;s getting airplay north of the border as well.</p>
+<p>It&#8217;s called BIPPP.  You may have already heard it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

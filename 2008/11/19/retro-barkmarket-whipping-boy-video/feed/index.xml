@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: RETRO: Barkmarket &#8220;Whipping Boy&#8221; video	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Oct 2011 13:17:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Dig Me Out Podcast		</title>
+		<link>./../index.html#comment-1362</link>
+
+		<dc:creator><![CDATA[Dig Me Out Podcast]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2011 13:17:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=3707#comment-1362</guid>
+
+					<description><![CDATA[Check out a podcast review of Gimmick by Barkmarket on Dig Me Out at digmeoutpodcast.com, a weekly podcast dedicated to reviewing the lost and forgotten rock of the &#039;90s.]]></description>
+			<content:encoded><![CDATA[<p>Check out a podcast review of Gimmick by Barkmarket on Dig Me Out at digmeoutpodcast.com, a weekly podcast dedicated to reviewing the lost and forgotten rock of the &#8217;90s.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

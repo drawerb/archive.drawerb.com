@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: SNIPPET: Them Crooked Vultures &#8220;Nobody Loves Me and Neither Do I&#8221;	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 16 Aug 2009 03:49:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Trey		</title>
+		<link>./../index.html#comment-1751</link>
+
+		<dc:creator><![CDATA[Trey]]></dc:creator>
+		<pubDate>Sun, 16 Aug 2009 03:49:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5276#comment-1751</guid>
+
+					<description><![CDATA[they played a show Monday night at the Metro in Chicago but only snippets have made it out - they were apparently amazingly strict with no recording.  The reviews seem to be pretty positive though.]]></description>
+			<content:encoded><![CDATA[<p>they played a show Monday night at the Metro in Chicago but only snippets have made it out &#8211; they were apparently amazingly strict with no recording.  The reviews seem to be pretty positive though.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Moby is back (for better or worse)	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Jan 2008 20:38:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-890</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2008 20:38:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/01/08/moby-is-back-for-better-or-worse/#comment-890</guid>
+
+					<description><![CDATA[I figured you&#039;d side with worse.  I can&#039;t say I&#039;m too impressed with this track.]]></description>
+			<content:encoded><![CDATA[<p>I figured you&#8217;d side with worse.  I can&#8217;t say I&#8217;m too impressed with this track.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-889</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2008 19:13:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2008/01/08/moby-is-back-for-better-or-worse/#comment-889</guid>
+
+					<description><![CDATA[worse.]]></description>
+			<content:encoded><![CDATA[<p>worse.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Band of Horses &#8220;Is There A Ghost&#8221; video	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Oct 2007 15:05:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Kennedy		</title>
+		<link>./../index.html#comment-750</link>
+
+		<dc:creator><![CDATA[Kennedy]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 15:05:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2007/10/15/band-of-horses-is-there-a-ghost-video/#comment-750</guid>
+
+					<description><![CDATA[â€œis there a ghostâ€ premiered this week on mtvU:
+http://www.mtvu.com/music/video_premiere/band_of_horses/ 
+ 
+Number]]></description>
+			<content:encoded><![CDATA[<p>â€œis there a ghostâ€ premiered this week on mtvU:<br />
+<a href="http://www.mtvu.com/music/video_premiere/band_of_horses/" rel="nofollow ugc">http://www.mtvu.com/music/video_premiere/band_of_horses/</a> </p>
+<p>Number</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

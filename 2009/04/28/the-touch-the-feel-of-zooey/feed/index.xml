@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Touch, The Feel, of Zooey	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Apr 2009 20:41:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1659</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 20:41:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/04/28/the-touch-the-feel-of-zooey/#comment-1659</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-1658&quot;&gt;Eric Greenwood&lt;/a&gt;.
+
+Yeah, I figured. With one fell swoop she ruined everything.  I&#039;m still going to go see her new movie.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-1658">Eric Greenwood</a>.</p>
+<p>Yeah, I figured. With one fell swoop she ruined everything.  I&#8217;m still going to go see her new movie.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1658</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 19:48:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2009/04/28/the-touch-the-feel-of-zooey/#comment-1658</guid>
+
+					<description><![CDATA[No. Awful.]]></description>
+			<content:encoded><![CDATA[<p>No. Awful.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

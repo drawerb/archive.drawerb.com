@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Chris Knox suffers stroke	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Jun 2009 20:02:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: AJW		</title>
+		<link>./../index.html#comment-1701</link>
+
+		<dc:creator><![CDATA[AJW]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2009 20:02:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5092#comment-1701</guid>
+
+					<description><![CDATA[Sad.  This is odd because I was listening to The 6ths Wasps&#039; Nest--something I hadn&#039;t done in years--and my fave song is &quot;When I&#039;m Out of Town.&quot;]]></description>
+			<content:encoded><![CDATA[<p>Sad.  This is odd because I was listening to The 6ths Wasps&#8217; Nest&#8211;something I hadn&#8217;t done in years&#8211;and my fave song is &#8220;When I&#8217;m Out of Town.&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: K		</title>
+		<link>./../index.html#comment-1700</link>
+
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2009 17:04:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/?p=5092#comment-1700</guid>
+
+					<description><![CDATA[Jeez.  I&#039;m going to email him well wishes.]]></description>
+			<content:encoded><![CDATA[<p>Jeez.  I&#8217;m going to email him well wishes.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New LCD Soundsystem &#8211; Drunk Girls	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 28 Mar 2010 00:46:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Velvet Underground		</title>
+		<link>./../index.html#comment-1809</link>
+
+		<dc:creator><![CDATA[Velvet Underground]]></dc:creator>
+		<pubDate>Sun, 28 Mar 2010 00:46:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2010/03/25/new-lcd-soundsystem-drunk-girls/#comment-1809</guid>
+
+					<description><![CDATA[This song reminds me of &quot;White Light/White Heat.&quot;]]></description>
+			<content:encoded><![CDATA[<p>This song reminds me of &#8220;White Light/White Heat.&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric Greenwood		</title>
+		<link>./../index.html#comment-1808</link>
+
+		<dc:creator><![CDATA[Eric Greenwood]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2010 03:09:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.drawerb.com/2010/03/25/new-lcd-soundsystem-drunk-girls/#comment-1808</guid>
+
+					<description><![CDATA[just like mcdonald&#039;s, i&#039;m loving it.]]></description>
+			<content:encoded><![CDATA[<p>just like mcdonald&#8217;s, i&#8217;m loving it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
